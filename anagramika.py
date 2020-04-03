@@ -265,7 +265,7 @@ def display_score_all(m):
 		else:
 			bot.reply_to(m, "There is no game active!")
 	elif("private"==m.chat.type):
-		bot.send_message("This command is only applicable in groups.")
+		bot.send_message(m.chat.id, "This command is only applicable in groups.")
 	else:
 		pass
 

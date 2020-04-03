@@ -21,7 +21,7 @@ Here are the rules {}:
 
 5. There is no timeout for any question. However, if the frustration hits the ceiling, the group admin can enter a /pass to pass a particular word {}
 
-6. You can know your score anytime during /score command!
+6. You can know your score anytime during /score command. For the full scoreboard, use /board command!
 
 7. That's all folks!! Enjoy!! Here you go..{}!
 '''.format(Emojis["smiling_face_with_open_mouth"],
@@ -44,7 +44,7 @@ Here are the rules :
 
 4. No timeouts, however you can pass the question by /pass
 
-5. You can know your score anytime during /score command. For the full scoreboard, use /board command
+5. You can know your score anytime during /score command.
 
 6. That's all!!! Enjoy!! Here you go..{}!
 '''.format(
