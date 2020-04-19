@@ -19,7 +19,7 @@ Here are the rules {}:
 
 4. There are no negative marks for a wrong answer {}
 
-5. There is no timeout for any question. However, if the frustration hits the ceiling, the group admin can enter a /pass to pass a particular word {}
+5. There is no timeout for any question. However, if the frustration hits the ceiling, you can enter a /pass to pass a particular word {}
 
 6. You can know your score anytime during /score command. For the full scoreboard, use /board command!
 

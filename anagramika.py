@@ -176,7 +176,7 @@ def pass_anagram(m):
 			admin_ids.append(str(admin.user.id))
 		if(u_id in g_group_data):
 			if(1==g_group_data[u_id].b_game_active):
-				if(user_id in admin_ids):
+				if True:
 					#pass the question
 					bot.send_message(m.chat.id, "Bailed you cowards! Alas. Here is the answer :")
 					bot.send_message(m.chat.id, g_group_data[u_id].answer)
